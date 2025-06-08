@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / outputs
+data/
+coherence_plots/
+*.pkl
+*.pkl.gz
+theta_vectors*.pkl.gz
+
+# OS
+.DS_Store
