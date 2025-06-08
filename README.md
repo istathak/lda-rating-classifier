@@ -11,7 +11,7 @@ Oh also this is KEY. in the main notebook there is a `REGENERATE_DATA` variable,
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/istathak/lda-rating-classifier
 
 ```
 
